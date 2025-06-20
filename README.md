@@ -10,4 +10,4 @@ Do you wish to add certain parts?
 Do you wish to remove certain parts? 
 Do you wish to replace all of Officer Duckling's lines with 'kvá kvá'?
 
-You can do all of that and more. Simply create a review request and if it isn't spam, I'll merge it into the main directory.
+You can do all of that and more. Simply create a pull request and if it isn't spam, I'll merge it into the main directory.
