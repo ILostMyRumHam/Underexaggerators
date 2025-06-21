@@ -424,13 +424,13 @@ PASSERBY: (...)
 >Latest fashion.
 >
 >THE HUMBLEST CAT DEAD AND ALIVE:
-> 
->	Aesthetics, I call it.
+>
+>Aesthetics, I call it.
 >
 >PASSERBY:
 >
 >The stinging smell comes back.
-> 
+>
 >Maced, emaciated, hollow.
 >
 >Your lackluster responses
@@ -590,9 +590,9 @@ PASSERBY:
 >
 > AUDIENCE MEMBER 2: Same.
 >
-> INTERVIEWER:
+>INTERVIEWER:
 >
-> 	Could you elaborate on the point of incitement?
+>Could you elaborate on the point of incitement?
 >
 >OFFICER DUCKLING:
 >
@@ -646,13 +646,13 @@ PASSERBY:
 >
 >Of the day. Remember the destroyed cars?
 >
-> INTERVIEWER:
+>INTERVIEWER:
 >
-> 	Thank you for joining us tonight.
+>Thank you for joining us tonight.
 >
 > OFFICER DUCKLING:
 >
-> 	It was my nature and my pleasure.
+>It was my nature and my pleasure.
 >
 
 # 8. 
@@ -725,7 +725,8 @@ The Congregation of Stratifia
 >
 >No back support, not ergonomic.
 >
->FROG ON A SWING: 
+>FROG ON A SWING:
+>
 >Now that's a load of gobbledygook
 >
 >And you know it.
@@ -734,7 +735,8 @@ The Congregation of Stratifia
 >
 >Don't you get it?
 >
->THE HUMBLEST CAT DEAD AND ALIVE: 
+>THE HUMBLEST CAT DEAD AND ALIVE:
+>
 >No, it's a real issue this swing
 >
 >Soon everybody will be wanting
@@ -748,6 +750,7 @@ The Congregation of Stratifia
 >What then?
 >
 >Exactly, you wouldn't get it.
+>
 >FROG ON A SWING:
 >
 >Whatever, don't be such a square
@@ -760,9 +763,9 @@ The Congregation of Stratifia
 >
 >THE HUMBLEST CAT DEAD AND ALIVE:
 >
->	False. Not a square, you're a square.
+>False. Not a square, you're a square.
 >
->	I'm manifesting to be more of an oval cat myself.
+>I'm manifesting to be more of an oval cat myself.
 >
 >FROG ON A SWING:
 >
@@ -1009,11 +1012,11 @@ The Congregation of Stratifia
 > THE HUMBLEST CAT DYING AND REVIVED: 
 > *stops running the lap and stomps on LAPDOG's leash*
 >
-> 	Whatever that was.
+>Whatever that was.
 >
-> 	What you were trying to do.
+>What you were trying to do.
 >
-> 	Don't do that again!
+>Don't do that again!
 >
 > LAPDOG:
 >
