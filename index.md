@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7ecd86e0-0453-4440-9018-3fe19d02f5c1)# Underexaggerators
+# Underexaggerators
 
 The rise of an isolationism that annihilates to save face, and pretty smart computers.
 
