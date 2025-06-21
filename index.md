@@ -530,11 +530,11 @@ PASSERBY:
 
 >INTERVIEWER:
 >
->	Tell our viewers more about the incident.
+>Tell our viewers more about the incident.
 >
->	The incitement came from the other side,
+>The incitement came from the other side,
 >
->	Correct?
+>Correct?
 >
 >OFFICER DUCKLING:
 >
