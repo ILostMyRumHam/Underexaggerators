@@ -1,4 +1,4 @@
-# Underexaggerators
+![image](https://github.com/user-attachments/assets/7ecd86e0-0453-4440-9018-3fe19d02f5c1)# Underexaggerators
 
 The rise of an isolationism that annihilates to save face, and pretty smart computers.
 
@@ -275,8 +275,10 @@ Three-legged stool with a carboard box on top of it. Hanging above, a neon billb
 >
 >The time has come to spend this country
 >
->The budget's run out, it's not me who spent it. 
->LAPDOG: 
+>The budget's run out, it's not me who spent it.
+>
+>LAPDOG:
+>
 >I see.
 > 
 >That's a real issue nowadays,
@@ -334,23 +336,28 @@ Three-legged stool with a carboard box on top of it. Hanging above, a neon billb
 >This crumbling uprising will be dealt with.
 >
 > LAPDOG:
+>
 >I see. Will I still get the treat? 
 > 
 >THE HUMBLEST CAT DEAD AND ALIVE:
+>
 >As long as we continue to speak like this.
 >
 > *Flickering.... static.- Issue resolved.*
 PASSERBY: (...)
 >
->THE HUMBLEST CAT DEAD AND ALIVE: 
+>THE HUMBLEST CAT DEAD AND ALIVE:
+>
 >What is going on here?
 >
 >Looking everywhere
 >
 >Where an eye can be laid
 >
->And yet doesn't say a thing. 
->PASSERBY: 
+>And yet doesn't say a thing.
+>
+>PASSERBY:
+>
 >What's that?
 >
 >My voice is back.
@@ -380,7 +387,8 @@ PASSERBY: (...)
 > 
 >Shameless in its prominence on screens.
 >
->Don't ask me why. 
+>Don't ask me why.
+>
 >THE HUMBLEST CAT DEAD AND ALIVE:
 > 
 >And why is that?
@@ -395,7 +403,7 @@ PASSERBY: (...)
 >
 >I can speak again, so what if
 >
->my words crash on crumpled-paper-ears.
+>My words crash on crumpled-paper-ears.
 >
 >Who is this hound in your employ?
 >
@@ -527,6 +535,7 @@ PASSERBY:
 >	The incitement came from the other side,
 >
 >	Correct?
+>
 >OFFICER DUCKLING:
 >
 >Naturally. You must remember,
@@ -636,6 +645,7 @@ PASSERBY:
 >For the sake of their own protection, at the end
 >
 >Of the day. Remember the destroyed cars?
+>
 > INTERVIEWER:
 >
 > 	Thank you for joining us tonight.
@@ -891,6 +901,7 @@ The Congregation of Stratifia
 >THE HUMBLEST CAT DYING AND REVIVED:
 >
 >Some killing is justified
+>
 >And some not,
 >
 >I think we would all agree
