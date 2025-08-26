@@ -2,6 +2,9 @@
 
 A short play on words written between May and December of 2024.
 
+Reader:
+https://ilostmyrumham.github.io/Underexaggerators/
+
 Underexaggerators is published under a Creative Commons license.
 
 This list of things you can do (very long) and can't do (very short) with it is in the LICENSE file.
